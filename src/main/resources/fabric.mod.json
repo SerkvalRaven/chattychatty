@@ -3,10 +3,10 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "CordVoice",
+  "description": "server-side mod for discord voice chat",
   "authors": [
-    "Me!"
+    "Serkval Raven"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
